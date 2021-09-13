@@ -1,0 +1,12 @@
+{
+  "name": "imgtopdf",
+  "displayName": "imgtopdf",
+  "expo": {
+    "name": "imgtopdf",
+    "slug": "imgtopdf",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
