@@ -12,6 +12,7 @@ export default function toJpg() {
   )
 }
 
+
 const styles = StyleSheet.create({
   container:{
     flex: 1,
